@@ -23,9 +23,9 @@ body{
     justify-content: center;
     align-items: center;
   
-    background-color: #D64045;/*#467599;*/
+    background-color: #571099fd;/*#467599;*/
     border-bottom: 5px solid #fff;
-    box-shadow: 0 0 30px -18px #D64045;
+    box-shadow: 0 0 30px -18px #3f0c6efd;
   
   }
   #title_inner_container{
@@ -166,7 +166,7 @@ body{
     font-size: 18px;
     background-color: Transparent;
     text-align: right;
-    color: #ccc;
+    color: #ff0000;
     background-image: url('https://static-00.iconduck.com/assets.00/send-icon-512x512-mf4rmm1s.png'); /* Gambar kirim */
     background-repeat: no-repeat; /* Mencegah pengulangan gambar */
     background-size: contain; /* Menyesuaikan ukuran gambar */
@@ -190,7 +190,7 @@ body{
     margin-top: 20px;
   }
   #chat_logout{
-    color: #D64045;
+    color: #571099fd;
     cursor: pointer;
   }
   #chat_logout:hover{
@@ -277,7 +277,7 @@ body{
     100% {}
   }
   ::selection {
-    background-color: #D64045;
+    background-color: #571099fd;
     color: #fff;
   }
   /* width */
