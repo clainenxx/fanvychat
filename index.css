@@ -167,6 +167,10 @@ body{
     background-color: Transparent;
     text-align: right;
     color: #ccc;
+    background-image: url('https://static-00.iconduck.com/assets.00/send-icon-512x512-mf4rmm1s.png'); /* Gambar kirim */
+    background-repeat: no-repeat; /* Mencegah pengulangan gambar */
+    background-size: contain; /* Menyesuaikan ukuran gambar */
+    background-position: center; /* Posisi gambar di tengah */
   }
   #chat_input_send.enabled{
     color: #D64045;
